@@ -1,0 +1,93 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.app {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 50px;
+    color: red;
+    text-shadow: 0 0 10px black;
+ 
+}
+
+.card {
+    width: 400px;
+    border: 1px solid rgba(0,0,0, .1);
+    padding: 25px;
+    margin-top: 25px;
+    box-shadow: 5px 5px 30px rgba(0,0,0, .2);
+    border-radius: 4px;
+    text-align: center;
+    background: rgba(245, 222, 179, 0.664); 
+    border: 5px solid #2980b9;
+
+}
+
+.card_img{
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    text-align: center;
+}
+.name {
+    font-size: 26px;
+    text-align: center;
+}
+
+.jinsi {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.jinsi img {
+    width: 35px;
+    height: 35px;
+}
+
+.age {
+    text-align: center;
+    font-weight: bold;
+    margin-top: 10px;
+    font-size: 24px;
+}
+.age span{
+    color: black;
+    
+}
+
+button {
+    width: 300px;
+    height: 50px;
+    display: block;
+    border: none;
+    background-color: orange;
+    border-radius: 4px;
+    font-size: 16px;
+    box-shadow: 5px 5px 30px rgba(0,0,0, .2);
+    margin: 0 auto;
+}
+
+form {
+    width: 500px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    width: 300px;
+    height: 50px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    border: none;
+    box-shadow: 5px 5px 30px rgba(0,0,0, .2);
+    font-size: 18px;
+    padding: 0 15px;
+    outline: none;
+}

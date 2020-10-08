@@ -1,0 +1,44 @@
+{
+  "people": [
+    {
+      "name": "Shaxru",
+      "surname": "khan",
+      "jinsi": "male",
+      "age": 26,
+      "photo": "https://www.innov.ru/upload/iblock/dde/dde26c979a1038f7675ba4ef17154624.jpg",
+      "number": 998998055005
+    },
+    {
+      "name": "Shaxzoda",
+      "surname": "Komilova",
+      "jinsi": "female",
+      "age": 31,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/6/67/Shahzoda_in_2012.jpg",
+      "number": 998998055066
+    },
+    {
+      "name": "Khabib",
+      "surname": "Numagamedov",
+      "jinsi": "male",
+      "age": 35,
+      "photo": "https://i.ytimg.com/vi/xGDU6c5Zv9E/maxresdefault.jpg",
+      "number": 998998055088
+    },
+    {
+      "name": "Yulduz",
+      "surname": "Usmonova",
+      "jinsi": "female",
+      "age": 23,
+      "photo": "https://static10.tgstat.ru/channels/_0/de/de4760e367d03a126325218519c96406.jpg",
+      "number": 998998055099
+    },
+    {
+      "name": "Uill",
+      "surname": "Smit",
+      "jinsi": "male",
+      "age": 30,
+      "photo": "https://thumbs.dfs.ivi.ru/storage23/contents/b/b/84da4388461544991c9e88224e3889.jpeg",
+      "number": 998998055022
+    }
+  ]
+}
